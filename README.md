@@ -1,6 +1,6 @@
 # CursoDesvendando
 
-<h3> Aprendendo com o Curso Desvendando Git e GitHub </h3>
+<h2> Aprendendo com o Curso Desvendando Git e GitHub </h2>
 
 Repositório criado com o objetivo de aprender sobre Git e GitHub.
 
